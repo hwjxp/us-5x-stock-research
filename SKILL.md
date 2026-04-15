@@ -154,6 +154,8 @@ Use:
 - [references/entry-and-exit-strategy.md](./references/entry-and-exit-strategy.md)
 - [references/position-sizing.md](./references/position-sizing.md)
 - [references/trade-management-playbook.md](./references/trade-management-playbook.md)
+- [references/earnings-playbook.md](./references/earnings-playbook.md)
+- [references/candidate-ranking-template.md](./references/candidate-ranking-template.md)
 
 ## Technical Rules
 
@@ -184,6 +186,8 @@ Depending on the request, return one of these:
 - `Entry / Exit Plan`
 - `Position Sizing Plan`
 - `Trade Management Playbook`
+- `Earnings Playbook`
+- `Candidate Ranking`
 
 ## Resources
 
@@ -196,3 +200,5 @@ Depending on the request, return one of these:
 - [references/entry-and-exit-strategy.md](./references/entry-and-exit-strategy.md): entry and exit framework
 - [references/position-sizing.md](./references/position-sizing.md): risk and sizing framework
 - [references/trade-management-playbook.md](./references/trade-management-playbook.md): staged execution and position management
+- [references/earnings-playbook.md](./references/earnings-playbook.md): pre and post earnings plan
+- [references/candidate-ranking-template.md](./references/candidate-ranking-template.md): basket ranking template
