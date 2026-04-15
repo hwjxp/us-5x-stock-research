@@ -1,0 +1,4 @@
+interface:
+  display_name: "US 5x Stock Research"
+  short_description: "Study U.S. multi-bagger stocks"
+  default_prompt: "Analyze this U.S. stock through a 5x-to-10x multi-bagger framework, including regime, theme, leader quality, catalysts, market-cap fit, technical setup, and invalidation."
